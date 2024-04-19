@@ -11,7 +11,7 @@ Memory  | 2GB
 Shipped Android Version | 11.0
 Storage | 32GB
 Battery | Li-Po 3000 mAh
-Dimensions | 153.1 x 74.4 x 9.7 mm
+Dimensions | 140 x 71 x 8.9 mm
 Display | 720 x 1440 pixels, 18:9 ratio (282 ppi density)
 Rear Camera  | 8 MP
 Front Camera | 5 MP
