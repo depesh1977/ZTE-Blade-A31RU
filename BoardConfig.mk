@@ -118,6 +118,7 @@ TW_INCLUDE_FBE_METADATA_DECRYPT := false
 
 # Properties
 TARGET_SYSTEM_PROP := $(DEVICE_PATH)/system.prop
+TARGET_RECOVERY_FSTAB := $(DEVICE_PATH)/recovery/root/system/etc/recovery.fstab
 
 # Use mke2fs to create ext4 images
 TARGET_USES_MKE2FS := true
